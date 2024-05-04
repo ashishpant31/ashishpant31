@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/images/d637be48e450b580df4c921c685980ab/tenor.gif?itemid=17310556)]
+![MasterHead](https://media1.tenor.com/images/d637be48e450b580df4c921c685980ab/tenor.gif?itemid=17310556)
 <h1 align="center">Hi 👋, I'm Ashish Pant</h1>
 <h3 align="center">A passionate Deep Learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
