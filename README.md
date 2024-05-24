@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashishpant3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishpant3112" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish pant" height="30" width="40" /></a>
-<a href="https://kaggle.com/lon3wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lon3wolf" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishpant3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishpant3112" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish_pant_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_pant_02" height="30" width="40" /></a>
+<a href="https://kaggle.com/lon3wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lon3wolf" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pantashish31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pantashish31" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashish_pant_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashish_pant_02" height="30" width="40" /></a>
 </p>
